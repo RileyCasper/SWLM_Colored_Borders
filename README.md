@@ -1,4 +1,4 @@
-[![Star Worm Family Mod Fixes](/swdgui-badge.svg)](https://github.com/RileyCasper/SW_Mod_Family_Fixes)
+[![Star Worm Family Mod Fixes](/StarWormBadge.svg)](https://github.com/RileyCasper/SW_Mod_Family_Fixes)
 # Colored SWLM Blocks Borders
 At the suggestion from **Redzeal** In the SWEM Beta discord, I have made a quick fix. Redzeal requested that SWLM blocks appear different from the normal base block they match. Thankfully there’s a mod out there that fixes this for us.
 **AlaharranHonor** has given us a final config file that has all 3 SWLM branding colors 
